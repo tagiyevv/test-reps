@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 
 # Vusal Tagiyev 2014
-#	a simple program to convert special Turkish charachters to latex
-#	do not forget to use "tipa" package for schwa
-#	I couldn't uppercase schwa. If you find, pleaseinform me.
-
-
+#
+#	A simple program to convert special Turkish charachters to latex
+#	fortmat. Do not forget to use "tipa" package for schwa.
+#	I couldn't find uppercase schwa. If you ever find it, 
+#   please inform me.
+#
 
 from gi.repository import Gtk
 
