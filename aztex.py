@@ -2,7 +2,7 @@
 
 # Vusal Tagiyev 2014
 #
-#	A simple program to convert special Turkish charachters to latex
+#	A simple program to convert special Azerbaijani charachters to latex
 #	fortmat. Do not forget to use "tipa" package for schwa.
 #	I couldn't find uppercase schwa. If you ever find it, 
 #   please inform me.
